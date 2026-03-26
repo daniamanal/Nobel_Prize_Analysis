@@ -1,5 +1,5 @@
 
-<h1>This project provides a comprehensive data analysis of Nobel Prize laureates from 1901 to the present day. Using a dataset containing information on nearly 1,000 winners, it explores the patterns and trends behind one of the world's most prestigious honors.</h1>
+<h2>This project provides a comprehensive data analysis of Nobel Prize laureates from 1901 to the present day. Using a dataset containing information on nearly 1,000 winners, it explores the patterns and trends behind one of the world's most prestigious honors.</h2>
 
 <h2>Core Concepts</h2>
 <ul>Historical Trends: Analyzing the evolution of Nobel Prizes across various categories including Physics, Chemistry, Literature, Peace, Economics, and Physiology or Medicine.</ul>
